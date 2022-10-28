@@ -1,3 +1,3 @@
 # Pothole Detection
-Detec potholes in roads using Deep Learning.
+Detect potholes in roads using Deep Learning.
 Work in progress...
